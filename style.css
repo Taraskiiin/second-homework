@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.video {
+    width: 100%;
+    z-index: -1;
+    position: relative;
+}
+.container{
+    width: 770px;
+    margin: 0 auto;
+    padding-left: 60%;
+    padding-top: 20px;
+}
+.table{
+    position: absolute;
+    top: 0;
+    color: #fff;
+}
+table{
+    border: solid 1px #fff;
+}
+table th{
+    border: solid 1px #fff;
+}
+table td{
+    border: solid 1px #fff;
+}
+.home__work{
+    background: linear-gradient(to top, rgba(0,204,204,1), rgba(20, 19, 19, 0.5));
+}
+h1{
+    text-align: center;
+}
+input{
+    margin-bottom: 15px;
+}
+table{
+    margin-bottom: 15px;
+}
+select{
+    margin-bottom: 15px;
+}
