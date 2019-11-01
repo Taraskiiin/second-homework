@@ -30,6 +30,9 @@ table th{
 table td{
     border: solid 1px #fff;
 }
+.form span{
+    display: block;
+}
 .home__work{
     background: linear-gradient(to top, rgba(0,204,204,1), rgba(20, 19, 19, 0.5));
 }
@@ -37,11 +40,11 @@ h1{
     text-align: center;
 }
 input{
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 table{
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 select{
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
